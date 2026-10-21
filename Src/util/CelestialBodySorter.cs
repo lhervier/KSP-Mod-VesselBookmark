@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace com.github.lhervier.ksp.bookmarksmod.util {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.util {
 
     /// <summary>
     /// Utility class to order the celestial bodies of the current system for the body filter:

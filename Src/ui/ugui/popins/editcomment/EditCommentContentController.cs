@@ -2,7 +2,7 @@ using UnityEngine;
 using TMPro;
 using com.github.lhervier.ksp.shared.ugui.textfield;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins.editcomment
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins.editcomment
 {
     /// <summary>
     /// Holds the edit-comment popup content widgets (the bookmark subtitle and the comment text area)

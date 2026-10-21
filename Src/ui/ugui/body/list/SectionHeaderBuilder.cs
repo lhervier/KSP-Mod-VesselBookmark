@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     /// <summary>
     /// En-tête de section (titre + compteur) et texte d'aide associé, ajoutés à un conteneur.

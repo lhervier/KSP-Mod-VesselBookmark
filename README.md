@@ -25,8 +25,8 @@ A Kerbal Space Program mod that lets you create bookmarks on vessels (by command
 
 ## Installation
 
-1. Download the latest version from [releases](https://github.com/lhervier/KSP-VesselBookmark/releases)
-2. Extract the `VesselBookmarkMod` folder into `KSP/GameData/`
+1. Download the latest version from [releases](https://github.com/lhervier/KSP-Mod-VesselBookmark/releases)
+2. Extract the `KSPModVesselBookmark` folder into `KSP/GameData/`
 3. Dependencies to install in `GameData`:
    - [ModuleManager](https://github.com/sarbian/ModuleManager) (required)
 
@@ -53,11 +53,11 @@ A Kerbal Space Program mod that lets you create bookmarks on vessels (by command
 
 ### Cloning the repository
 
-This project uses the [KSP-Shared](https://github.com/lhervier/KSP-Shared) repository as a git submodule (in the `KSP-Shared` folder). Its source files are compiled directly into `VesselBookmarkMod.dll`, so you must initialize the submodule before building.
+This project uses the [KSP-Shared](https://github.com/lhervier/KSP-Shared) repository as a git submodule (in the `KSP-Shared` folder). Its source files are compiled directly into `KSPModVesselBookmark.dll`, so you must initialize the submodule before building.
 
 - Clone with submodules in one step:
   ```batch
-  git clone --recurse-submodules https://github.com/lhervier/KSP-VesselBookmark.git
+  git clone --recurse-submodules https://github.com/lhervier/KSP-Mod-VesselBookmark.git
   ```
 
 - Or, if you already cloned the repository without submodules:
@@ -87,7 +87,7 @@ This project uses the [KSP-Shared](https://github.com/lhervier/KSP-Shared) repos
    build.bat
    ```
 
-3. The built mod is in `Release\VesselBookmarkMod.zip`
+3. The built mod is in `Release\KSPModVesselBookmark.zip`
 
 ### Install into KSP (after building)
 
@@ -114,4 +114,4 @@ MIT — see the [LICENSE](LICENSE) file.
 
 ## Bugs and feature requests
 
-[Open an issue](https://github.com/lhervier/KSP-VesselBookmark/issues) on GitHub.
+[Open an issue](https://github.com/lhervier/KSP-Mod-VesselBookmark/issues) on GitHub.

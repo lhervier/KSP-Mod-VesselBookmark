@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     public class NoMatchController : MonoBehaviour
     {

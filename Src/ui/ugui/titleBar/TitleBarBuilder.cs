@@ -3,13 +3,13 @@ using UnityEngine.UI;
 using com.github.lhervier.ksp.shared.ugui.badge;
 using com.github.lhervier.ksp.shared.ugui.button;
 using com.github.lhervier.ksp.shared.ugui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.titleBar
 {
     /// <summary>
     /// Right-side content of the popup's title bar: the "shown / total" count badge, then the ＋ (add the

@@ -1,4 +1,4 @@
-namespace com.github.lhervier.ksp.bookmarksmod.ui
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui
 {
     /// <summary>
     /// Identifies one of the search criteria. Used to designate a criterion across the UI (the filter

@@ -1,11 +1,11 @@
 using UnityEngine.UI;
 using TMPro;
 using com.github.lhervier.ksp.shared.ugui.button;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
 using com.github.lhervier.ksp.shared;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.footer
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.footer
 {
     public class FooterController : MonoBehaviour
     {

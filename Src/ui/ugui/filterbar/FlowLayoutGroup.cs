@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.filterbar
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.filterbar
 {
     /// <summary>
     /// Layout group laying its children out left to right, wrapping to a new line when the next child

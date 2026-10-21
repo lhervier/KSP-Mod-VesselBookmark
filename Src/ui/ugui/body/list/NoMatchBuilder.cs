@@ -3,13 +3,13 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.button;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     /// <summary>
     /// Panneau qui remplace les sections quand le filtrage ne laisse aucun signet : il annonce

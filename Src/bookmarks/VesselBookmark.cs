@@ -1,6 +1,6 @@
 using System;
 
-namespace com.github.lhervier.ksp.bookmarksmod.bookmarks {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.bookmarks {
 
     /// <summary>
     /// Represents a bookmark for a vessel

@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.filterbar
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.filterbar
 {
     /// <summary>
     /// Barre de rappel des critères de recherche actifs, entre le title bar et la liste : une pastille

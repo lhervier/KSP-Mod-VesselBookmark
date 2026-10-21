@@ -1,11 +1,11 @@
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.popin;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins.remove
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins.remove
 {
     /// <summary>
     /// Assembles the remove-confirmation internal popup: a shared <see cref="ConfirmPopinBuilder"/> (danger

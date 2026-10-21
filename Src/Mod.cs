@@ -2,7 +2,7 @@ using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod {
+namespace com.github.lhervier.ksp.mod.vesselbookmark {
 	
 	[KSPAddon(KSPAddon.Startup.PSystemSpawn, false)]
     public class Mod : MonoBehaviour {

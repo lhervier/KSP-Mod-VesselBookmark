@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod {
+namespace com.github.lhervier.ksp.mod.vesselbookmark {
 
     /// <summary>
     /// Réglages globaux du mod (par installation, indépendants de la sauvegarde). Persistés dans

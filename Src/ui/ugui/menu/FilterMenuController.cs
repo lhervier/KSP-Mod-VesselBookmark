@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.checkbox;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.combo;
 using com.github.lhervier.ksp.shared.ugui.textfield;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.menu
 {
     public class FilterMenuController : MonoBehaviour
     {

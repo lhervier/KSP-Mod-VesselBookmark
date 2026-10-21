@@ -1,4 +1,4 @@
-namespace com.github.lhervier.ksp.bookmarksmod.util {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.util {
 
     /// <summary>
     /// Turns an internal celestial body name (CelestialBody.bodyName, used everywhere as a stable

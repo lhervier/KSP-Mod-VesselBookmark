@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui
 {
     /// <summary>
     /// Marker for the popup content root (the region below the title bar): a vertical layout stacking the

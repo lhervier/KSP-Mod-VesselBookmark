@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod {
+namespace com.github.lhervier.ksp.mod.vesselbookmark {
     
     /// <summary>
     /// Lookup tables built once per refresh pass. Refreshing N bookmarks against the index costs

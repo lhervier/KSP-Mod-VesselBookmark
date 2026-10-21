@@ -2,12 +2,12 @@ using KSP.UI.Screens;
 using UnityEngine;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.popup;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.titleBar;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.titleBar;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui {
 
     /// <summary>
     /// UI entry point: toolbar button + uGUI window. The window is driven by a (shared) PopupController
@@ -152,7 +152,7 @@ namespace com.github.lhervier.ksp.bookmarksmod.ui {
                         null,
                         null,
                         ApplicationLauncher.AppScenes.FLIGHT | ApplicationLauncher.AppScenes.MAPVIEW | ApplicationLauncher.AppScenes.TRACKSTATION | ApplicationLauncher.AppScenes.SPACECENTER,
-                        GameDatabase.Instance.GetTexture("VesselBookmarkMod/icon", false) ?? Texture2D.whiteTexture
+                        GameDatabase.Instance.GetTexture("KSPModVesselBookmark/icon", false) ?? Texture2D.whiteTexture
                     );
                 } catch (System.Exception e) {
                     LOGGER.LogError($"Error creating Toolbar button: {e.Message}");

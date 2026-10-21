@@ -2,12 +2,12 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.combo.itemcontent;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.menu
 {
     /// <summary>
     /// Builds a filter combo item (body / type / situation): a single label whose text comes from an

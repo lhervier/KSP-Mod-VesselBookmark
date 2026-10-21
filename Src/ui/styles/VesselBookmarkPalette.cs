@@ -2,7 +2,7 @@ using UnityEngine;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using static com.github.lhervier.ksp.shared.ugui.styles.Utils;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.styles
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.styles
 {
     /// <summary>
     /// Couleurs et métriques de l'UI uGUI, calquées sur la maquette ui_mockup.html (thème sombre,

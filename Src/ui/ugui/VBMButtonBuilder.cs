@@ -1,7 +1,7 @@
 using com.github.lhervier.ksp.shared.ugui.button;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui
 {
     /// <summary>
     /// Shared ButtonBuilder pre-seeded with VesselBookmark's default button size and colors. It only

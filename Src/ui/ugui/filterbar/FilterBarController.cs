@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.filterbar
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.filterbar
 {
     /// <summary>
     /// Keeps the filter bar in sync with the active criteria: rebuilds one chip per criterion, and

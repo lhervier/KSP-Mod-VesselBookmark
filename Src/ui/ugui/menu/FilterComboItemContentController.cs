@@ -1,8 +1,8 @@
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared.ugui.combo.itemcontent;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.menu
 {
     /// <summary>
     /// Combo item content for a filter option (body / type / situation): a single label. Reflects

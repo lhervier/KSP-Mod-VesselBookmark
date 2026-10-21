@@ -1,10 +1,10 @@
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.scrollableview;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body
 {
     /// <summary>
     /// Corps scrollable de la fenêtre : une vue défilante (composant partagé) dont le contenu est la liste

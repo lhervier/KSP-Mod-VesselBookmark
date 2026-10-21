@@ -1,9 +1,9 @@
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.popin;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins.remove
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins.remove
 {
     /// <summary>
     /// Orchestrates the remove-confirmation internal popup: on ViewModel.OnRemovalRequested, fills the

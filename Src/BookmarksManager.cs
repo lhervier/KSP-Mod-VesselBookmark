@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
 using Smooth.Collections;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod {
+namespace com.github.lhervier.ksp.mod.vesselbookmark {
     
     /// <summary>
     /// Central bookmark manager

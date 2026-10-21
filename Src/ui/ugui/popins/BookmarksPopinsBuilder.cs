@@ -1,10 +1,10 @@
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.menu;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins.editcomment;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins.remove;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.menu;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins.editcomment;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins.remove;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.popins
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.popins
 {
     /// <summary>
     /// Builds the bookmarks window popins (filter menu + edit-comment and remove-confirm internal popups)

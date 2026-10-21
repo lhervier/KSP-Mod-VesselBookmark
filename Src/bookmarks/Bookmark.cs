@@ -1,10 +1,10 @@
 using System;
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod;
-using com.github.lhervier.ksp.bookmarksmod.util;
+using com.github.lhervier.ksp.mod.vesselbookmark;
+using com.github.lhervier.ksp.mod.vesselbookmark.util;
 using System.Linq;
 
-namespace com.github.lhervier.ksp.bookmarksmod.bookmarks {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.bookmarks {
     
     /// <summary>
     /// Base class for all bookmarks

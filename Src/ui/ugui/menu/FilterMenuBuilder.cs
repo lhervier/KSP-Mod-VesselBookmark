@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.util;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.util;
 using com.github.lhervier.ksp.shared.ugui.checkbox;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
@@ -11,7 +11,7 @@ using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.textfield;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.menu
 {
     /// <summary>
     /// Drop-down filter menu (opened by the title bar's "⋯" button). A full-window click trap (closes

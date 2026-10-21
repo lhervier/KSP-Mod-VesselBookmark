@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.sprites
 {
     /// <summary>
     /// Charge les PNG du mod (alarme…) en sprites uGUI, avec cache.
@@ -24,7 +24,7 @@ namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites
         }
 
         /// <summary>Icône d'alarme.</summary>
-        public static Sprite Alarm => Load("VesselBookmarkMod/buttons/alarm");
+        public static Sprite Alarm => Load("KSPModVesselBookmark/buttons/alarm");
 
         private static Sprite Load(string url)
         {

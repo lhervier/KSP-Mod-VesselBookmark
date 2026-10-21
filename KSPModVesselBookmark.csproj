@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
-    <AssemblyName>VesselBookmarkMod</AssemblyName>
-    <RootNamespace>com.github.lhervier.ksp.bookmarksmod</RootNamespace>
+    <AssemblyName>KSPModVesselBookmark</AssemblyName>
+    <RootNamespace>com.github.lhervier.ksp.mod.vesselbookmark</RootNamespace>
     <OutputType>Library</OutputType>
     <OutputPath>Output\bin</OutputPath>
     <IntermediateOutputPath>Output\obj</IntermediateOutputPath>

@@ -2,15 +2,15 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using com.github.lhervier.ksp.shared.ugui.button;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.footer
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.footer
 {
     /// <summary>
     /// Barre d'actions du bas, fixée sous le corps : libellé de sélection à gauche, puis les boutons

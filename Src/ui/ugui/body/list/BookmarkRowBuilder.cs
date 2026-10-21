@@ -2,9 +2,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using com.github.lhervier.ksp.shared.ugui.button;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.badge;
@@ -12,7 +12,7 @@ using com.github.lhervier.ksp.shared.ugui.selectionring;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     /// <summary>
     /// One bookmark row: line 1 (type icon + alarm + title + status chip + the ⚙▲▼✕ buttons), line 2

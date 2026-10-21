@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     /// <summary>
     /// Liste des bookmarks, empilée verticalement : pour chaque section (module de commande, vaisseau)

@@ -1,7 +1,7 @@
 # Generates the footer sprite PNGs from Unicode glyphs.
 #
 # Each icon is rendered as a white glyph on a transparent background into
-# GameData/VesselBookmarkMod/Textures/. See the README in that folder for the
+# GameData/KSPModVesselBookmark/Textures/. See the README in that folder for the
 # meaning of each icon.
 #
 # Why this is not a plain DrawString: a glyph drawn with the font's line
@@ -40,7 +40,7 @@ $icons = [ordered]@{
 }
 
 # Resolve the Textures directory relative to this script, independent of the CWD.
-$texturesDir = Join-Path $PSScriptRoot '..\GameData\VesselBookmarkMod\Textures'
+$texturesDir = Join-Path $PSScriptRoot '..\GameData\KSPModVesselBookmark\Textures'
 $texturesDir = [System.IO.Path]::GetFullPath($texturesDir)
 
 # This font ships with Windows and covers the symbol glyphs used above.

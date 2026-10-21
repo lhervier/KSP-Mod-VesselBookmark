@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.body;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.filterbar;
-using com.github.lhervier.ksp.bookmarksmod.ui.ugui.footer;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.filterbar;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.footer;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.scrollableview;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui
 {
     /// <summary>
     /// Popup content (everything below the shared title bar): a vertical layout filling the content host,

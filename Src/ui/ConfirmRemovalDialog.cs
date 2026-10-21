@@ -2,7 +2,7 @@ using System;
 using com.github.lhervier.ksp.shared;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui {
     
     /// <summary>
     /// Helper for simple confirmation dialogs.

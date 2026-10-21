@@ -1,6 +1,6 @@
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod.util {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.util {
     
     /// <summary>
     /// Manages navigation to vessels

@@ -1,9 +1,9 @@
 using System;
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod {
+namespace com.github.lhervier.ksp.mod.vesselbookmark {
     public class BookmarkRefreshManager : MonoBehaviour {
 
         private static readonly ModLogger LOGGER = new ModLogger("BookmarkRefreshManager");

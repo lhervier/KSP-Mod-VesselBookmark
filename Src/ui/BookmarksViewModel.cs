@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.bookmarks;
-using com.github.lhervier.ksp.bookmarksmod.util;
+using com.github.lhervier.ksp.mod.vesselbookmark.bookmarks;
+using com.github.lhervier.ksp.mod.vesselbookmark.util;
 using System;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui {
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui {
     public class BookmarksViewModel : MonoBehaviour
     {
         private static readonly ModLogger LOGGER = new ModLogger("BookmarksViewModel");

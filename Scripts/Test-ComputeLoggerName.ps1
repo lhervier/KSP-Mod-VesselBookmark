@@ -18,7 +18,7 @@ if (-not $InChildProcess) {
 $ErrorActionPreference = "Stop"
 $scriptDir = $PSScriptRoot
 $projectRoot = Split-Path $scriptDir -Parent
-$dllPath = Join-Path $projectRoot "Output\bin\VesselBookmarkMod.dll"
+$dllPath = Join-Path $projectRoot "Output\bin\KSPModVesselBookmark.dll"
 
 if (-not (Test-Path $dllPath)) {
     Write-Host "DLL introuvable: $dllPath" -ForegroundColor Red
@@ -43,7 +43,7 @@ if ($env:KSPDIR) {
 }
 
 Add-Type -Path $dllPath
-$type = [com.github.lhervier.ksp.bookmarksmod.ModLogger]
+$type = [com.github.lhervier.ksp.mod.vesselbookmark.ModLogger]
 
 $testCases = @(
     "",

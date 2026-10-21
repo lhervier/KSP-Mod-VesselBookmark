@@ -1,9 +1,9 @@
 using System;
 using System.Text;
 using UnityEngine;
-using com.github.lhervier.ksp.bookmarksmod.ui.styles;
+using com.github.lhervier.ksp.mod.vesselbookmark.ui.styles;
 
-namespace com.github.lhervier.ksp.bookmarksmod.ui.ugui.body.list
+namespace com.github.lhervier.ksp.mod.vesselbookmark.ui.ugui.body.list
 {
     /// <summary>
     /// Marks the occurrences of the search text inside a bookmark row's texts, so a row tells at a
